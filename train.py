@@ -21,6 +21,7 @@ from training import training_loop
 from metrics import metric_main
 from torch_utils import training_stats
 from torch_utils import custom_ops
+from numpy import random
 
 #debug
 os.environ['CUDA_LAUNCH_BLOCKING'] = "1"
@@ -30,6 +31,10 @@ os.environ['CUDA_LAUNCH_BLOCKING'] = "1"
 
 def subprocess_fn(rank, c, temp_dir):
     dnnlib.util.Logger(file_name=os.path.join(c.run_dir, 'log.txt'), file_mode='a', should_flush=True)
+    
+    seed = random.rand(0, 10000)
+    print(seed)
+    torch.manual_seed(seed)
 
     # Init torch.distributed.
     if c.num_gpus > 1:
