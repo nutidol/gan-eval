@@ -22,6 +22,10 @@ from metrics import metric_main
 from torch_utils import training_stats
 from torch_utils import custom_ops
 
+#debug
+os.environ['CUDA_LAUNCH_BLOCKING'] = "1"
+
+
 #----------------------------------------------------------------------------
 
 def subprocess_fn(rank, c, temp_dir):
