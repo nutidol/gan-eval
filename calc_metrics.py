@@ -30,9 +30,9 @@ import random
 
 def subprocess_fn(rank, args, temp_dir):
     dnnlib.util.Logger(should_flush=True)
-    SEED = random.randint(0,10000)
-    print(SEED)
-    torch.manual_seed(SEED)
+#     SEED = random.randint(0,10000)
+#     print(SEED)
+#     torch.manual_seed(SEED)
 
     # Init torch.distributed.
     if args.num_gpus > 1:
