@@ -13,87 +13,44 @@ Initially work by [Karras et al. 2021](https://github.com/NVlabs/stylegan3). But
 - Python libraries.
 
   ```conda env create -f environment.yml```
+  
   ```conda activate stylegan3```
+- FFHQ dataset (1028x1028)
 
+### Evaluating
+```
+CUDA_VISIBLE_DEVICES=4,5,6,7 python calc_metrics.py --metrics=fid50k_full --data=/data/ffhq/images1024x1024 --mirror=1 --network=https://api.ngc.nvidia.com/v2/models/nvidia/research/stylegan2/versions/1/files/stylegan2-ffhq-1024x1024.pkl --gpus=4 
+```
+metrics:
+- fid50k_full: Fréchet inception distance.
+- kid50k_full: Kernel inception distance.
+- pr50k3_full: Precision and recall.
 
-### Prerequisites
+data:
+- path to dataset
 
-Requirements for the software and other tools to build, test and push 
-- [Example 1](https://www.example.com)
-- [Example 2](https://www.example.com)
+pretrained network:
+- StyleGAN2: https://api.ngc.nvidia.com/v2/models/nvidia/research/stylegan2/versions/1/files/stylegan2-ffhq-1024x1024.pkl
+- StyleGAN3: https://api.ngc.nvidia.com/v2/models/nvidia/research/stylegan3/versions/1/files/stylegan3-t-ffhq-1024x1024.pkl 
+- StyleGAN-XL: https://s3.eu-central-1.amazonaws.com/avg-projects/stylegan_xl/models/ffhq1024.pkl
 
-### Installing
+### Generating
 
-A step by step series of examples that tell you how to get a development
-environment running
+```
+CUDA_VISIBLE_DEVICES=4,5,6,7 python gen_images.py --outdir=/data/nattharikasaetang/sg2output --trunc=1 --network=https://api.ngc.nvidia.com/v2/models/nvidia/research/stylegan2/versions/1/files/stylegan2-ffhq-1024x1024.pkl --seeds=0-40
+```
 
-Say what the step will be
+outdir:
+- output images directory
 
-    Give the example
-
-And repeat
-
-    until finished
-
-End with an example of getting some data out of the system or using it
-for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Sample Tests
-
-Explain what these tests test and why
-
-    Give an example
-
-### Style test
-
-Checks if the best practices and the right coding style has been used.
-
-    Give an example
-
-## Deployment
-
-Add additional notes to deploy this on a live system
-
-## Built With
-
-  - [Contributor Covenant](https://www.contributor-covenant.org/) - Used
-    for the Code of Conduct
-  - [Creative Commons](https://creativecommons.org/) - Used to choose
-    the license
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
-of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [Semantic Versioning](http://semver.org/) for versioning. For the versions
-available, see the [tags on this
-repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
-
-## Authors
-
-  - **Billie Thompson** - *Provided README Template* -
-    [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of
-[contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
-who participated in this project.
+seeds:
+- amount of outputs
 
 ## License
 
-This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
-Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
-details
+Copyright © 2021, NVIDIA Corporation & affiliates. All rights reserved.
 
 ## Acknowledgments
 
-  - Hat tip to anyone whose code is used
-  - Inspiration
-  - etc
-
+Thank you authors of StyleGAN3 and StyleGAN-XL papers. This project can produce reliable results owing to them. Also, much thanks to Mac (my supervisor)
+ and Justin who gave me a lot of useful knowledge and advice. 
