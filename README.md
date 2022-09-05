@@ -16,6 +16,10 @@ Initially work by [Karras et al. 2021](https://github.com/NVlabs/stylegan3). But
   
   ```conda activate stylegan3```
 - FFHQ dataset (1028x1028)
+- pretrained network:
+  -  StyleGAN2: https://api.ngc.nvidia.com/v2/models/nvidia/research/stylegan2/versions/1/files/stylegan2-ffhq-1024x1024.pkl
+  - StyleGAN3: https://api.ngc.nvidia.com/v2/models/nvidia/research/stylegan3/versions/1/files/stylegan3-t-ffhq-1024x1024.pkl 
+  - StyleGAN-XL: https://s3.eu-central-1.amazonaws.com/avg-projects/stylegan_xl/models/ffhq1024.pkl
 
 ### Evaluating
 ```
@@ -28,11 +32,6 @@ metrics:
 
 data:
 - path to dataset
-
-pretrained network:
-- StyleGAN2: https://api.ngc.nvidia.com/v2/models/nvidia/research/stylegan2/versions/1/files/stylegan2-ffhq-1024x1024.pkl
-- StyleGAN3: https://api.ngc.nvidia.com/v2/models/nvidia/research/stylegan3/versions/1/files/stylegan3-t-ffhq-1024x1024.pkl 
-- StyleGAN-XL: https://s3.eu-central-1.amazonaws.com/avg-projects/stylegan_xl/models/ffhq1024.pkl
 
 ### Generating
 
