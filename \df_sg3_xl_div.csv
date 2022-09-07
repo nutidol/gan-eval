@@ -1,0 +1,27 @@
+real_1,div_1,real_2,div_2,real_3,div_3,real_4,div_4,real_5,div_5,real_6,div_6,real_7,div_7,real_8,div_8,real_9,div_9,real_10,div_10,real_11,div_11,real_12,div_12,comments,knowGAN,sg2_3_real,sg3_2_real,sg2_3_div,sg3_2_div,sg2_xl_real,sgxl_2_real,sg2_xl_div,sgxl_2_div,sg3_xl_real,sgxl_3_real,sg3_xl_div,sgxl_3_div
+SG3,SG3,SGXL,SG2,SG3,SG3,SG3,SG3,SG2,SG2,SG3,SG2,SG2,SG2,SGXL,SG2,SG2,SG3,SG3,SG3,SG2,SG2,SG3,SG3,Some features on a face don’t look so correlated.,Yes,2,2,2,2,2,2,4,0,4,0,4,0
+SG3,SG3,SG2,SGXL,SG3,SG3,SG3,SG3,SG2,SGXL,SG2,SG3,SG2,SG2,SG2,SG2,SG2,SG2,SG3,SG3,SGXL,SGXL,SG3,SG3,facial expression,No,3,1,2,2,3,1,1,3,4,0,4,0
+SG2,SG3,SG2,SG2,SG3,SG3,SGXL,SG3,SGXL,SG2,SG2,SG2,SG2,SG2,SG2,SG2,SG3,SG2,SGXL,SG3,SGXL,SG2,SG3,SG3,Shape of their faces,Yes,3,1,3,1,2,2,4,0,2,2,4,0
+SG3,SG2,SG2,SGXL,SG3,SG3,SGXL,SG3,SG2,SGXL,SG3,SG2,SG2,SG2,SGXL,SG2,SG2,SG3,SG3,SG3,SG2,SGXL,SG3,SG3,Physical appearance ,No,2,2,3,1,3,1,1,3,3,1,4,0
+SG2,SG2,SG2,SG2,SGXL,SG3,SGXL,SG3,SG2,SG2,SG2,SG2,SG3,SG3,SGXL,SGXL,SG2,SG3,SGXL,SG3,SGXL,SG2,SGXL,SG3,-,No,3,1,2,2,2,2,3,1,0,4,4,0
+SG2,SG2,SGXL,SGXL,SG3,SG3,SG3,SG3,SG2,SG2,SG2,SG3,SG2,SG3,SGXL,SG2,SG2,SG3,SG3,SG3,SG2,SGXL,SG3,SG3,It’s like taking picture with application not bear camera. Have only 1 skin tone,No,4,0,1,3,2,2,2,2,4,0,4,0
+SG2,SG3,SG2,SGXL,SGXL,SG3,SG3,SG3,SG2,SG2,SG2,SG3,SG2,SG2,SG2,SG2,SG2,SG3,SG3,SG3,SG2,SG2,SG3,SG3,I can detected fake smile and hairstyle,No,4,0,1,3,4,0,3,1,3,1,4,0
+SG3,SG3,SGXL,SGXL,SG3,SG3,SGXL,SG3,SGXL,SG2,SG2,SG3,SG3,SG2,SG2,SGXL,SG2,SG2,SGXL,SG3,SG2,SG2,SG3,SG3,3,No,2,2,2,2,2,2,2,2,2,2,4,0
+SG2,SG2,SG2,SGXL,SGXL,SG3,SGXL,SG3,SG2,SG2,SG2,SG3,SG2,SG2,SGXL,SG2,SG2,SG3,SG3,SG3,SGXL,SG2,SG3,SG3,"Unchosen rows faces features seem out of place sometime. For example, the eyes shape doesnt really match with the portion of the face where it is located in.",No,4,0,2,2,2,2,3,1,2,2,4,0
+SG3,SG3,SG2,SG2,SGXL,SG3,SGXL,SG3,SG2,SG2,SG2,SG2,SG3,SG2,SG2,SGXL,SG2,SG2,SG3,SG3,SG2,SG2,SG3,SG3,Most of the images look great but some of them looks a bit weird in some part like the angle of the nose or eyes in 1/3 images,Yes,2,2,3,1,4,0,3,1,2,2,4,0
+SG2,SG3,SG2,SG2,SGXL,SG3,SGXL,SG3,SGXL,SG2,SG3,SG3,SG2,SG2,SGXL,SG2,SG2,SG2,SG3,SG3,SG2,SG2,SGXL,SG3,-,Yes,3,1,2,2,2,2,4,0,1,3,4,0
+SG3,SG3,SGXL,SG2,SG3,SG3,SG3,SG3,SG2,SG2,SG2,SG3,SG3,SG2,SG2,SGXL,SG2,SG2,SG3,SG3,SGXL,SG2,SGXL,SG3,chosen rows are more realistic,No,2,2,2,2,2,2,3,1,3,1,4,0
+SG2,SG3,SG2,SGXL,SGXL,SG3,SGXL,SG3,SGXL,SG2,SG2,SG2,SG2,SG2,SG2,SG2,SG3,SG2,SG3,SG3,SGXL,SG2,SG3,SG3,Smile is too strange.,No,3,1,3,1,2,2,3,1,2,2,4,0
+SG3,SG2,SG2,SGXL,SG3,SG3,SG3,SG3,SG2,SGXL,SG2,SG2,SG2,SG2,SG2,SGXL,SG2,SG3,SG3,SG3,SG2,SG2,SG3,SG3,They are just straight face and smile while others  are in different angles.l,No,3,1,3,1,4,0,1,3,4,0,4,0
+SG2,SG3,SGXL,SGXL,SG3,SG3,SG3,SG3,SGXL,SG2,SG2,SG2,SG2,SG2,SG2,SGXL,SG2,SG2,SG3,SG3,SGXL,SG2,SG3,SG3,"Subtle differences - facial shapes, mismatching shadows, etc.",No,4,0,3,1,1,3,2,2,4,0,4,0
+SG2,SG3,SGXL,SG2,SGXL,SG3,SGXL,SG3,SGXL,SG2,SG2,SG2,SG2,SG2,SGXL,SG2,SG2,SG2,SGXL,SG3,SG2,SG2,SGXL,SG3,"3 is definitely the least diverse but look the most believable. 2 has some artifacts (distorted face, male with female looking hair).  1 seems to strike the best balance between realism and diversity.",Yes,4,0,3,1,1,3,4,0,0,4,4,0
+SG2,SG2,SGXL,SG2,SGXL,SG3,SG3,SG3,SGXL,SG2,SG3,SG2,SG2,SG3,SG2,SGXL,SG3,SG2,SG3,SG3,SG2,SG2,SG3,SG3,various aberrations in face shape or expression ,Yes,2,2,3,1,2,2,3,1,3,1,4,0
+SG2,SG3,SGXL,SG2,SGXL,SG3,SG3,SG3,SG2,SG2,SG2,SG2,SG2,SG2,SG2,SG2,SG2,SG2,SGXL,SG3,SGXL,SGXL,SGXL,SG3,"Most of them are very realistic and it was just some very minor details that would throw me off about some of the faces, really hard to explain what exactly.",Yes,4,0,3,1,2,2,3,1,1,3,4,0
+SG2,SG3,SG2,SGXL,SGXL,SG3,SG3,SG3,SGXL,SG2,SG3,SG3,SG2,SG2,SG2,SGXL,SG2,SG2,SG3,SG3,SG2,SG2,SG3,SG3,Small flaws in the face really stood out to me and usually caused me to vote the other row as more realistic.,No,3,1,2,2,3,1,2,2,3,1,4,0
+SG3,SG2,SGXL,SG2,SGXL,SG3,SGXL,SG3,SG2,SG2,SG2,SG2,SG2,SG2,SG2,SG2,SG2,SG2,SGXL,SG3,SGXL,SG2,SGXL,SG3,Row 2 is least realistic mainly due to faces of most kids. Some faces of the children seems to be on adult bodies. Most adults look fine.,No,3,1,4,0,2,2,4,0,0,4,4,0
+SG3,SG3,SG2,SG2,SGXL,SG3,SGXL,SG3,SG2,SG2,SG2,SG3,SG3,SG2,SG2,SG2,SG2,SG3,SG3,SG3,SGXL,SG2,SG3,SG3,1) The facial expressions as a whole doesn’t link e.g. eyes vs smile or wrinkles. The people look unnatural  2) The two eyes seem to look at different directions ,No,2,2,1,3,3,1,4,0,2,2,4,0
+SG3,SG3,SG2,SG2,SGXL,SG3,SG3,SG3,SGXL,SG2,SG2,SG3,SG2,SG3,SG2,SGXL,SG2,SG3,SGXL,SG3,SGXL,SG2,SGXL,SG3,2,No,3,1,0,4,2,2,3,1,1,3,4,0
+SG2,SG3,SGXL,SG2,SGXL,SG3,SGXL,SG3,SGXL,SGXL,SG2,SG2,SG3,SG2,SGXL,SG2,SG2,SG2,SG3,SG3,SG2,SG2,SGXL,SG3,"The skin color and their appearance seems to be edited. Looking at the categorised groups, it seems that the first group is less realistic while the third group seems more realistic.",No,3,1,3,1,1,3,3,1,1,3,4,0
+SG2,SG2,SG2,SGXL,SG3,SG3,SGXL,SG3,SGXL,SG2,SG2,SG2,SG3,SG2,SG2,SG2,SG3,SG3,SGXL,SG3,SG2,SG2,SG3,SG3,-,No,2,2,3,1,3,1,3,1,2,2,4,0
+SG2,SG3,SG2,SG2,SGXL,SG3,SGXL,SG3,SG2,SGXL,SG2,SG2,SG2,SG2,SG2,SGXL,SG2,SG2,SG3,SG3,SG2,SG2,SGXL,SG3,"Some add spots on the face. Ex, children face with adult hair, ",No,4,0,3,1,4,0,2,2,1,3,4,0
+SG2,SG2,SGXL,SGXL,SGXL,SG3,SG3,SG3,SG2,SG2,SG2,SG2,SG2,SG2,SGXL,SGXL,SG3,SG2,SG3,SG3,SG2,SG2,SG3,SG3,Hair and wrinkles ,No,3,1,4,0,2,2,2,2,3,1,4,0

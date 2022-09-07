@@ -1,0 +1,29 @@
+real_1,div_1,real_2,div_2,real_3,div_3,real_4,div_4,real_5,div_5,real_6,div_6,real_7,div_7,real_8,div_8,real_9,div_9,real_10,div_10,real_11,div_11,real_12,div_12,comments,knowGAN,sg2_3_real,sg3_2_real,sg2_3_div,sg3_2_div,sg2_xl_real,sgxl_2_real,sg2_xl_div,sgxl_2_div,sg3_xl_real,sgxl_3_real,sg3_xl_div,sgxl_3_div
+SG3,SG3,SGXL,SGXL,SG3,SGXL,SG3,SGXL,SG2,SGXL,SG2,SG3,SG2,SG2,SG2,SGXL,SG2,SG3,SG3,SG3,SG2,SGXL,SG3,SG3,It look wasn’t realistic,No,3,1,1,3,3,1,0,4,4,0,2,2
+SG3,SG3,SGXL,SG2,SG3,SG3,SG3,SG3,SG2,SG2,SG3,SG2,SG2,SG2,SGXL,SG2,SG2,SG3,SG3,SG3,SG2,SG2,SG3,SG3,Some features on a face don’t look so correlated.,Yes,2,2,2,2,2,2,4,0,4,0,4,0
+SG3,SG3,SG2,SGXL,SG3,SG3,SG3,SG3,SG2,SGXL,SG2,SG3,SG2,SG2,SG2,SG2,SG2,SG2,SG3,SG3,SGXL,SGXL,SG3,SG3,facial expression,No,3,1,2,2,3,1,1,3,4,0,4,0
+SG3,SG2,SGXL,SGXL,SG3,SGXL,SG3,SGXL,SG2,SG2,SG2,SG2,SG2,SG2,SG2,SGXL,SG2,SG2,SG3,SG3,SG2,SGXL,SG3,SGXL,"Facial alignment, blurs in the edges of faces",No,3,1,4,0,3,1,1,3,4,0,1,3
+SG2,SG2,SGXL,SGXL,SG3,SG3,SG3,SG3,SG2,SG2,SG2,SG3,SG2,SG3,SGXL,SG2,SG2,SG3,SG3,SG3,SG2,SGXL,SG3,SG3,It’s like taking picture with application not bear camera. Have only 1 skin tone,No,4,0,1,3,2,2,2,2,4,0,4,0
+SG2,SG3,SG2,SG2,SG3,SG3,SG3,SGXL,SGXL,SG2,SG2,SG3,SG2,SG2,SG2,SG2,SG3,SG2,SG3,SGXL,SGXL,SG2,SG3,SGXL,Different angle of face looks more realistic ,No,3,1,2,2,2,2,4,0,4,0,1,3
+SG3,SG3,SG2,SGXL,SG3,SG3,SG3,SGXL,SG2,SGXL,SG2,SG2,SG2,SG2,SG2,SGXL,SG2,SG2,SG3,SG3,SGXL,SG2,SG3,SG3,"Plain background, skin too smooth",No,3,1,3,1,3,1,1,3,4,0,3,1
+SG3,SG3,SG2,SG2,SG3,SGXL,SG3,SG3,SG2,SG2,SG2,SG2,SG2,SG3,SG2,SGXL,SG2,SG3,SG3,SG3,SG2,SG2,SG3,SG3,Abnormal face & background ,No,3,1,1,3,4,0,3,1,4,0,3,1
+SG3,SG2,SG2,SG2,SG3,SGXL,SG3,SGXL,SGXL,SG2,SG2,SG3,SG3,SG2,SGXL,SG2,SG3,SG2,SG3,SGXL,SGXL,SGXL,SG3,SG3,-,No,1,3,3,1,1,3,3,1,4,0,1,3
+SG3,SG2,SG2,SGXL,SG3,SG3,SG3,SG3,SG2,SGXL,SG2,SG2,SG2,SG2,SG2,SGXL,SG2,SG3,SG3,SG3,SG2,SG2,SG3,SG3,They are just straight face and smile while others  are in different angles.l,No,3,1,3,1,4,0,1,3,4,0,4,0
+SG3,SG3,SG2,SG2,SG3,SGXL,SG3,SG3,SGXL,SG2,SG2,SG2,SG2,SG2,SG2,SGXL,SG2,SG2,SG3,SG3,SG2,SG2,SG3,SGXL,More diversity more realistic?,No,3,1,3,1,3,1,3,1,4,0,2,2
+SG2,SG3,SGXL,SGXL,SG3,SG3,SG3,SG3,SGXL,SG2,SG2,SG2,SG2,SG2,SG2,SGXL,SG2,SG2,SG3,SG3,SGXL,SG2,SG3,SG3,"Subtle differences - facial shapes, mismatching shadows, etc.",No,4,0,3,1,1,3,2,2,4,0,4,0
+SG2,SG2,SG2,SGXL,SG3,SGXL,SG3,SG3,SG2,SG2,SG2,SG3,SG2,SG2,SGXL,SGXL,SG2,SG2,SG3,SG3,SG2,SG2,SG3,SG3,They looked more pixelated or the features didn't match up,Yes,4,0,3,1,3,1,2,2,4,0,3,1
+SG2,SG2,SG2,SGXL,SG3,SGXL,SG3,SG3,SGXL,SGXL,SG3,SG3,SG2,SG2,SGXL,SGXL,SG2,SG2,SG3,SG3,SG2,SG2,SG3,SG3,"I will refer to images by model, row, and column
+
+So Model 1, row 4, column 3 is a surprised baby wearing a pink shirt.
+
+Things that made things look less realistic:
+
+Things that just wouldn't exist in real life:
+
+1,6,1 just had a part of his face that sticks out in a thin, perfectly horizontal, rectangle.
+
+3,7,1 has a very prominent part of his forehead which looks odd. It's odd both in the sense that people don't normally have prominent features on their foreheads, and because to me it just doesn't look like a photo of anything. If you said it was model clay, I would say that it looks like it has no depth, and that a picture of model clay wouldn't look like that.
+The first part, prominent forehead feature, is possible in people even if rare. The second bit isn't.
+
+Faces that are too ""perfect"".any faces look like air brushed photos to me. So they look like images I'm sure you'd often find of ""real people"" in various context, but they also look like someone did heavy handed air brushing and I would expect that a more wrinkled, less smooth gradient, image exists somewhere which is the ""actual original photo"".",Yes,3,1,3,1,2,2,1,3,4,0,3,1
+SG2,SG3,SG2,SGXL,SG3,SGXL,SG3,SG3,SG2,SG2,SG2,SG2,SG3,SG2,SGXL,SG2,SG2,SG2,SG3,SG3,SGXL,SG2,SG3,SG3,"They all looked real to me, which is terrifying to me to know that they are not real.",No,3,1,3,1,2,2,3,1,4,0,3,1

@@ -1,0 +1,19 @@
+real_1,div_1,real_2,div_2,real_3,div_3,real_4,div_4,real_5,div_5,real_6,div_6,real_7,div_7,real_8,div_8,real_9,div_9,real_10,div_10,real_11,div_11,real_12,div_12,comments,knowGAN,sg2_3_real,sg3_2_real,sg2_3_div,sg3_2_div,sg2_xl_real,sgxl_2_real,sg2_xl_div,sgxl_2_div,sg3_xl_real,sgxl_3_real,sg3_xl_div,sgxl_3_div
+SG2,SG3,SG2,SGXL,SGXL,SG3,SGXL,SGXL,SG2,SG2,SG2,SG2,SG3,SG2,SG2,SG2,SG2,SG2,SG3,SG3,SG2,SG2,SGXL,SGXL,It is obvious on some rows that is really unrealistic especially gender,Yes,3,1,3,1,4,0,3,1,1,3,2,2
+SG3,SG3,SG2,SG2,SG3,SG3,SGXL,SGXL,SG2,SG2,SG3,SG2,SG2,SG2,SG2,SG2,SG3,SG2,SG3,SG3,SG2,SGXL,SG3,SG3,"Light reflection, angular faces",Yes,1,3,3,1,4,0,3,1,3,1,3,1
+SG2,SG3,SG2,SGXL,SGXL,SG3,SG3,SG3,SG2,SG2,SG2,SG3,SG2,SG2,SG2,SG2,SG2,SG3,SG3,SG3,SG2,SG2,SG3,SG3,I can detected fake smile and hairstyle,No,4,0,1,3,4,0,3,1,3,1,4,0
+SG2,SG2,SG2,SG2,SG3,SG3,SGXL,SG3,SG2,SG2,SG2,SG3,SG3,SG3,SG2,SGXL,SG2,SG3,SG3,SG3,SG2,SG2,SGXL,SGXL,"backgrounds, whether looks too surreal or unrealistic proportion, face expression",No,3,1,1,3,4,0,3,1,2,2,3,1
+SG3,SG3,SG2,SG2,SGXL,SG3,SGXL,SG3,SG2,SG2,SG2,SG2,SG3,SG2,SG2,SGXL,SG2,SG2,SG3,SG3,SG2,SG2,SG3,SG3,Most of the images look great but some of them looks a bit weird in some part like the angle of the nose or eyes in 1/3 images,Yes,2,2,3,1,4,0,3,1,2,2,4,0
+SG3,SG3,SG2,SG2,SG3,SG3,SG3,SG3,SG2,SG2,SG3,SG3,SG3,SG3,SG2,SG2,SG2,SG2,SG3,SG3,SG2,SG2,SGXL,SGXL,Less vivid pictures,No,1,3,1,3,4,0,4,0,3,1,3,1
+SG3,SG3,SG2,SG2,SG3,SGXL,SG3,SG3,SG2,SG2,SG2,SG2,SG2,SG3,SG2,SGXL,SG2,SG3,SG3,SG3,SG2,SG2,SG3,SG3,Abnormal face & background ,No,3,1,1,3,4,0,3,1,4,0,3,1
+SG2,SG2,SG2,SGXL,SG3,SG3,SG3,SGXL,SG2,SGXL,SG2,SG3,SG2,SG2,SG2,SGXL,SG3,SG3,SG3,SG3,SG2,SGXL,SGXL,SG3,-,No,3,1,2,2,4,0,0,4,3,1,3,1
+SG3,SG2,SG2,SGXL,SG3,SG3,SG3,SG3,SG2,SGXL,SG2,SG2,SG2,SG2,SG2,SGXL,SG2,SG3,SG3,SG3,SG2,SG2,SG3,SG3,They are just straight face and smile while others  are in different angles.l,No,3,1,3,1,4,0,1,3,4,0,4,0
+SG3,SG2,SG2,SGXL,SGXL,SG3,SGXL,SGXL,SG2,SG2,SG2,SG2,SG3,SG2,SG2,SG2,SG2,SG3,SG3,SG3,SG2,SG2,SG3,SG3,The proportion of the faces is off.,No,2,2,3,1,4,0,3,1,2,2,3,1
+SG3,SG2,SG2,SG2,SGXL,SGXL,SGXL,SGXL,SG2,SGXL,SG2,SG2,SG2,SG3,SG2,SGXL,SG2,SG2,SG3,SG3,SG2,SG2,SGXL,SGXL,Some of defect rendering image ,No,3,1,3,1,4,0,2,2,1,3,1,3
+SG2,SG2,SG2,SG2,SGXL,SGXL,SGXL,SGXL,SG2,SG2,SG2,SG2,SG2,SG2,SG2,SG2,SG2,SG2,SG3,SG3,SG2,SG2,SG3,SG3,i used shadows a fair number of times,Yes,4,0,4,0,4,0,4,0,2,2,2,2
+SG3,SG3,SG2,SGXL,SG3,SG3,SGXL,SG3,SG2,SG2,SG2,SG2,SG3,SG2,SG2,SGXL,SG2,SG2,SG3,SG3,SG2,SG2,SGXL,SGXL,"Visual artifacts ('molten' glasses, strange head shapes etc.)",Yes,2,2,3,1,4,0,2,2,2,2,3,1
+SG3,SG2,SG2,SGXL,SGXL,SGXL,SGXL,SGXL,SG2,SG2,SG2,SG2,SG2,SG2,SG2,SG2,SG2,SG2,SGXL,SG3,SG2,SG2,SGXL,SGXL,Happy to help,Yes,3,1,4,0,4,0,3,1,0,4,1,3
+SG2,SG3,SG2,SGXL,SGXL,SG3,SGXL,SG3,SG2,SGXL,SG2,SG3,SG2,SG3,SG2,SGXL,SG2,SG3,SG3,SGXL,SG2,SGXL,SG3,SGXL,Too many characters in one,No,4,0,0,4,4,0,0,4,2,2,2,2
+SG2,SG2,SG2,SG2,SGXL,SGXL,SGXL,SG3,SG2,SGXL,SG2,SG3,SG3,SG2,SG2,SG2,SG2,SG2,SG3,SG3,SG2,SG2,SGXL,SG3,Distorted or uncommon facial features,No,3,1,3,1,4,0,3,1,1,3,3,1
+SG2,SG3,SG2,SGXL,SGXL,SG3,SG3,SG3,SG2,SG2,SG2,SG2,SG3,SG2,SG2,SGXL,SG2,SG2,SGXL,SG3,SG2,SG2,SGXL,SGXL,Face doesn't match the head,Yes,3,1,3,1,4,0,2,2,1,3,3,1
+SG2,SG3,SG2,SG2,SGXL,SG3,SGXL,SG3,SG2,SGXL,SG2,SG2,SG2,SG2,SG2,SGXL,SG2,SG2,SG3,SG3,SG2,SG2,SGXL,SG3,"Some add spots on the face. Ex, children face with adult hair, ",No,4,0,3,1,4,0,2,2,1,3,4,0

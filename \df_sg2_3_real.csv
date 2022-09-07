@@ -1,0 +1,34 @@
+real_1,div_1,real_2,div_2,real_3,div_3,real_4,div_4,real_5,div_5,real_6,div_6,real_7,div_7,real_8,div_8,real_9,div_9,real_10,div_10,real_11,div_11,real_12,div_12,comments,knowGAN,sg2_3_real,sg3_2_real,sg2_3_div,sg3_2_div,sg2_xl_real,sgxl_2_real,sg2_xl_div,sgxl_2_div,sg3_xl_real,sgxl_3_real,sg3_xl_div,sgxl_3_div
+SG2,SG2,SG2,SGXL,SGXL,SG3,SGXL,SG3,SG2,SG2,SG2,SG3,SG2,SG3,SGXL,SGXL,SG2,SG3,SGXL,SG3,SGXL,SG2,SGXL,SGXL,in some pics their smile look so fake and it somehow looks a lil bit creepy.. just my personal feeling judging by what i saw,No,4,0,1,3,2,2,2,2,0,4,3,1
+SG2,SG2,SGXL,SGXL,SG3,SG3,SG3,SG3,SG2,SG2,SG2,SG3,SG2,SG3,SGXL,SG2,SG2,SG3,SG3,SG3,SG2,SGXL,SG3,SG3,It’s like taking picture with application not bear camera. Have only 1 skin tone,No,4,0,1,3,2,2,2,2,4,0,4,0
+SG2,SG3,SG2,SGXL,SGXL,SG3,SG3,SG3,SG2,SG2,SG2,SG3,SG2,SG2,SG2,SG2,SG2,SG3,SG3,SG3,SG2,SG2,SG3,SG3,I can detected fake smile and hairstyle,No,4,0,1,3,4,0,3,1,3,1,4,0
+SG2,SG2,SG2,SGXL,SGXL,SG3,SGXL,SG3,SG2,SG2,SG2,SG3,SG2,SG2,SGXL,SG2,SG2,SG3,SG3,SG3,SGXL,SG2,SG3,SG3,"Unchosen rows faces features seem out of place sometime. For example, the eyes shape doesnt really match with the portion of the face where it is located in.",No,4,0,2,2,2,2,3,1,2,2,4,0
+SG2,SG3,SG2,SGXL,SG3,SG3,SGXL,SGXL,SGXL,SG2,SG2,SG3,SG2,SG2,SGXL,SGXL,SG2,SG2,SGXL,SG3,SG2,SG2,SG3,SG3,"Actually, they look like a picture from a real person photo, but the chosen photo is looks more realistic as from the light/shade in the photo and detail of the person face.",No,4,0,2,2,2,2,2,2,2,2,3,1
+SG2,SG2,SGXL,SG2,SGXL,SG3,SGXL,SG3,SGXL,SG2,SG2,SG3,SG2,SG3,SG2,SGXL,SG2,SG3,SG3,SG3,SGXL,SG2,SG3,SGXL,Some are Model look,No,4,0,1,3,1,3,3,1,2,2,3,1
+SG2,SG2,SG2,SG2,SGXL,SGXL,SGXL,SGXL,SG2,SG2,SG2,SG2,SG2,SG2,SG2,SG2,SG2,SG2,SG3,SG3,SG2,SG2,SG3,SG3,i used shadows a fair number of times,Yes,4,0,4,0,4,0,4,0,2,2,2,2
+SG2,SG3,SGXL,SGXL,SG3,SG3,SG3,SG3,SGXL,SG2,SG2,SG2,SG2,SG2,SG2,SGXL,SG2,SG2,SG3,SG3,SGXL,SG2,SG3,SG3,"Subtle differences - facial shapes, mismatching shadows, etc.",No,4,0,3,1,1,3,2,2,4,0,4,0
+SG2,SG3,SGXL,SG2,SGXL,SG3,SGXL,SG3,SGXL,SG2,SG2,SG2,SG2,SG2,SGXL,SG2,SG2,SG2,SGXL,SG3,SG2,SG2,SGXL,SG3,"3 is definitely the least diverse but look the most believable. 2 has some artifacts (distorted face, male with female looking hair).  1 seems to strike the best balance between realism and diversity.",Yes,4,0,3,1,1,3,4,0,0,4,4,0
+SG2,SG3,SGXL,SG2,SGXL,SG3,SG3,SG3,SG2,SG2,SG2,SG2,SG2,SG2,SG2,SG2,SG2,SG2,SGXL,SG3,SGXL,SGXL,SGXL,SG3,"Most of them are very realistic and it was just some very minor details that would throw me off about some of the faces, really hard to explain what exactly.",Yes,4,0,3,1,2,2,3,1,1,3,4,0
+SG2,SG3,SGXL,SG2,SGXL,SGXL,SG3,SG3,SGXL,SGXL,SG2,SG2,SG2,SG2,SG2,SG2,SG2,SG3,SGXL,SG3,SG2,SG2,SG3,SG3,"It was some times a 50/50 as with only 3 images and 5+ characteristics.
+1. Realism:   Artifacts/oddities on some photos (column 1 row 2, 3rd image chin)
+                      Column 1, row 2, 3rd image looked photo shopped/model/makeup.
+                      artifact right side of cheek (column 2, row 6, 3rd photo)
+                      Various with oddities on forehead or another with another chin.
+                      Others light/darkness background wash out features.
+                      (while realistic to have photos be washed out, it lowers the realism)
+2. Diversity:  
+    Missing or under represented: Chinese, Japanese, South Korean, Indian, South American, Aboriginal Australian, Filipino, Middle East, and variations in each country.
+    Also even if there was diversity most felt American or European.  
+      - Think of a rice patty worker in remote Nepal, or fisherman small island in the Philippines.   Tibetan, Russia, Or think of people outside the city of Nigera, Kenya or Zimbawai versus Egyptian in Africa, or a city person in the US versus a farmer.
+        (there are facial features from hard work, years of exposure to elements).
+        Or Northern India, versus central India versus southern India (facial features and color vary), but their careers also vary peoples look (being weathered, areas of strength), weight.  I think most of these people were not over weight.  Perhaps 4-5 based on facial features.
+       Chinese there are differences in regions and careers also.  (I think perhaps 3 Chinese)
+       No Japanese or South Korean.  No Arabs (perhaps 1-2  mixed race) and there are a variety of Arabs/Middle Eastern decent. Middle East from Israel to Pakistan vary (and Pakistan/India overlap in looks.)  No Punjabi's or Dravidian's nor North Eastern Indians, only perhaps 2 other Indians.
+
+And based on world wide population: China, India should be majority.
+If this is for the US Population: Only one African male. 1-2 African (American/ and one probable South American female girl with hat) females.",Yes,4,0,2,2,2,2,3,1,2,2,3,1
+SG2,SG2,SG2,SGXL,SG3,SGXL,SG3,SG3,SG2,SG2,SG2,SG3,SG2,SG2,SGXL,SGXL,SG2,SG2,SG3,SG3,SG2,SG2,SG3,SG3,They looked more pixelated or the features didn't match up,Yes,4,0,3,1,3,1,2,2,4,0,3,1
+SG2,SG3,SG2,SGXL,SGXL,SG3,SGXL,SG3,SG2,SGXL,SG2,SG3,SG2,SG3,SG2,SGXL,SG2,SG3,SG3,SGXL,SG2,SGXL,SG3,SGXL,Too many characters in one,No,4,0,0,4,4,0,0,4,2,2,2,2
+SG2,SG3,SG2,SG2,SG3,SG3,SGXL,SG3,SG2,SG2,SG2,SG2,SG2,SG2,SG2,SGXL,SG2,SG2,SG3,SG3,SGXL,SGXL,SG3,SGXL,"position of the face, emotion",No,4,0,3,1,3,1,2,2,3,1,3,1
+SG2,SG3,SG2,SG2,SGXL,SG3,SGXL,SG3,SG2,SGXL,SG2,SG2,SG2,SG2,SG2,SGXL,SG2,SG2,SG3,SG3,SG2,SG2,SGXL,SG3,"Some add spots on the face. Ex, children face with adult hair, ",No,4,0,3,1,4,0,2,2,1,3,4,0
+SG2,SG3,SG2,SGXL,SGXL,SG3,SG3,SG3,SGXL,SGXL,SG2,SG2,SG2,SG2,SGXL,SG2,SG2,SG2,SGXL,SGXL,SG2,SG2,SG3,SGXL,"Features not fitting the face forms, features commonly found in different birth genders put together",No,4,0,3,1,2,2,2,2,2,2,2,2
